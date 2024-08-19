@@ -43,7 +43,7 @@ const HeroSection = () => {
             Projects
           </Link>
           <Link
-            to="Experience"
+            to="experience"
             className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 mb-4"
             activeClass="active"
             spy={true}
