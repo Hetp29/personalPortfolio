@@ -9,7 +9,6 @@ const skills = [
   { skill: "HTML/CSS" },
   { skill: "React.js" },
   { skill: "Node.js/Express" },
-  { skill: "Express.js" },
   { skill: "Next.js" },
   { skill: "Django" },
   { skill: "Tailwind CSS" },
