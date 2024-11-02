@@ -2,6 +2,14 @@ import React from "react";
 
 const experiences = [
   {
+    from: "August 2024",
+    to: "Present",
+    title: "Developer",
+    company: "HackRU",
+    description:
+      "Currently working on frontend issues for HackRU with the HackRU RnD team and working on a data science project where the statistics and graphs of information on registered users can be seen.",
+  },
+  {
     from: "January 2024",
     to: "May 2024",
     title: "Software Engineering Intern",
@@ -12,7 +20,7 @@ const experiences = [
   {
     from: "June 2024",
     to: "August 2024",
-    title: "Software Developer Intern",
+    title: "Developer Intern",
     company: "VR Brothers LLC",
     description:
       "Contributed to the development of a accounting software for the company which consisted of tracking finances, invoices, orders and payments. Assisted in developing the front-end using Vite, React.js, and Material UI. Assisted in developing the back-end using Node.js, Express.js and MongoDB (for database schema and queries).",
