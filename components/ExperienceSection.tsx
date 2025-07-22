@@ -2,28 +2,36 @@ import React from "react";
 
 const experiences = [
   {
+    from: "May 2025",
+    to: "August 2025",
+    title: "ML Researcher ",
+    company: "Aresty Research Center",
+    description:
+      "Developing predictive ML models using 50,000+ satellite and glider samples at Rutgers Artificial Intelligence and Data Science Lab (RAD), implementing 9+ algorithms including ResNet, CNN, XGBoost to optimize F1 score and ROC-AUC for marine mammal detection. Engineered comprehensive ML pipeline using PyTorch, TensorFlow, and scikit-learn with stratified sampling, SMOTE oversampling, and 10-fold cross-validation to handle imbalanced datasets and spatial autocorrelation challenges. Designed statistical models incorporating 10+ oceanographic variables (depth, salinity, temperature, chlorophyll-a, SST) to assess biodiversity-economic tradeoffs using satellite and autonomous glider sensor data. Reviewing academic papers weekly to enhance model architecture and ecological understanding, adding 2+ variables to current dataset and performing preprocessing on 42,000 raw samples with strategic missing data imputation",
+  },
+  {
+    from: "June 2024",
+    to: "May 2025",
+    title: "Software Engineer ",
+    company: "VR Brothers LLC",
+    description:
+      "Built an autonomous vendor monitoring system tracking 25+ suppliers using BeautifulSoup web scrapers and SQLAlchemy data pipelines. Assisted in building AI scanning system using C++ that auto-generated invoices in QuickBooks, reducing processing time by 70%. Assisted in building route optimizer using Python and optimization libraries targeting 10–15% delivery cost reduction.",
+  },
+  {
     from: "August 2024",
-    to: "Present",
-    title: "Developer",
+    to: "March 2025",
+    title: "Software Developer",
     company: "HackRU",
     description:
-      "Currently working on frontend issues for HackRU with the HackRU RnD team and working on a data science project where the statistics and graphs of information on registered users can be seen.",
+      "Implemented 5+ UI components for a platform serving 450+ registered users. Resolved 2+ frontend bugs, enhancing overall user experience. Developed an interactive dashboard using Flask, MongoDB and React to visualize and analyze data for 450+ registered users, incorporating data-driven insights through dynamic graphs and visualizations.",
   },
   {
     from: "January 2024",
     to: "May 2024",
-    title: "Software Engineering Intern",
+    title: "AI Engineering Intern",
     company: "OurDate",
     description:
       "Helped develop and test AI-driver features that improve user experience and engagement on the platform. Worked with product engineering and design team to build an application. Designed questions and inputs to teach AI models, helping them generate accurate and relevant responses.",
-  },
-  {
-    from: "June 2024",
-    to: "August 2024",
-    title: "Developer Intern",
-    company: "VR Brothers LLC",
-    description:
-      "Contributed to the development of a accounting software for the company which consisted of tracking finances, invoices, orders and payments. Assisted in developing the front-end using Vite, React.js, and Material UI. Assisted in developing the back-end using Node.js, Express.js and MongoDB (for database schema and queries).",
   },
 
 ];

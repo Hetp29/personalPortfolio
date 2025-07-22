@@ -26,9 +26,8 @@ const HeroSection = () => {
             </span>
             pursuing a bachelors of science in Computer Science and Data Science
             looking to graduate in December 2026. I am interested in the fields
-            of software engineering, software development, full stack
-            development, data science/data analysis, leveraging my
-            background in Computer Science and Data Science.
+            of AI/ML, software engineering, data science/data analysis, leveraging my
+            background in Computer Science and Data Science. 
           </p>
           <div className="flex flex-col md:flex-row md:space-x-4">
           <Link

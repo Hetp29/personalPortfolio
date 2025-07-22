@@ -2,8 +2,11 @@ import React from "react"
 import Image from "next/image"
 
 const skills = [
+  { skill: "AI/ML" },
   { skill: "Java" },
-  { skill: "Python" },
+    { skill: "Python" },
+    { skill: "C/C++" },
+    { skill: "Rust" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
   { skill: "HTML/CSS" },
@@ -13,14 +16,20 @@ const skills = [
   { skill: "Django" },
   { skill: "Flask" },
   { skill: "Tailwind CSS" },
+  { skill: "Tensorflow" },
+  { skill: "PyTorch" },
+  { skill: "OpenCV" },
   { skill: "Chakra UI" },
   { skill: "Material UI" },
   { skill: "shadcn" },
   { skill: "Framer Motion" },
   { skill: "Machine Learning" },
   { skill: "MongoDB" },
+  { skill: "MySQL" },
   { skill: "PostgreSQL" },
   { skill: "Firebase" },
+  { skill: "Docker" },
+  { skill: "Supabase" },
   { skill: "Git" },
   { skill: "GitHub" },
 ]
@@ -47,8 +56,7 @@ const AboutSection = () => {
             <br />
             <p>
             I expect to graduate from Rutgers University-New Brunswick in
-              December 2026 with a Bachelors of Science in Computer Science and Data Science. I
-              aspire to explore the realms of Software Engineering.
+              December 2026 with a Bachelors of Science in Computer Science and Data Science. I am focused on advancing AI through software, algorithms, and math. I hope to understand the depth of AI technologies and use it in meaningful projects. 
             </p>
             <br />
             <p>
